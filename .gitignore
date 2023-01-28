@@ -259,6 +259,9 @@ FakesAssemblies/
 # GhostDoc plugin setting file
 *.GhostDoc.xml
 
+# Gradle Plugin
+.gradle/
+
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
 node_modules/
@@ -290,6 +293,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+*.iml
 
 # CodeRush
 .cr/
